@@ -1,6 +1,6 @@
 [rewrite_local]
 
-^https:\/\/open\.weixin\.qq\.com\/connect\/sdk\/qrconnect url script-response-body https://raw.githubusercontent.com/lianghl0717/scan_login/main/hpxl_wx.js
+^https:\/\/open\.weixin\.qq\.com\/connect\/sdk\/qrconnect url script-response-body https://raw.githubusercontent.com/lianghl0717/scan_login/main/hpxlwx.js
 
 [mitm] 
 
