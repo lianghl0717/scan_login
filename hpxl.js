@@ -1,6 +1,6 @@
 [rewrite_local]
 
-^https:\/\/openmobile\.qq.com\/oauth2\.0\/m_get_redirect_url url script-response-body https://raw.githubusercontent.com/lianghl0717/scan_login/main/hpxl2.js
+^https:\/\/openmobile\.qq.com\/oauth2\.0\/m_get_redirect_url url script-response-body https://raw.githubusercontent.com/lianghl0717/scan_login/main/hpxl.js
 
 [mitm] 
 
