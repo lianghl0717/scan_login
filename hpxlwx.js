@@ -1,11 +1,11 @@
-
+/******************************
 
 [rewrite_local]
 ^https:\/\/ios\.crashsight\.qq\.com\/rqd\/pb\/sync url script-response-body https://raw.githubusercontent.com/lianghl0717/scan_login/main/hpxlwx.js
 
 [mitm] 
 hostname = ios.crashsight.qq.com
-/******************************
+
 *******************************/
 
 var obj = '"uploadServer*	analytics:×þ@¶»û¬0"183.49.47.149(Üû¬Ø0BS
